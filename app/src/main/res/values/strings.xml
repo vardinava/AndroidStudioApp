@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tubes_1872025_Vardina</string>
+    <string name="tab_text_1">Popular</string>
+    <string name="tab_text_2">Now PLaying</string>
+    <string name="tab_text_3">Upcoming</string>
+    <string name="tab_text_4">Search</string>
+    <string name="tab_text_5">Favorite</string>
+    <string name="text_1">Tab1, Popular movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_search">Search</string>
+</resources>
